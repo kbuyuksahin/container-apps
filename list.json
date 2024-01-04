@@ -1,5 +1,17 @@
 [
     {
+        "description": "Testing adding new app",
+        "repository": "github",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/app_gitlab.png",
+        "displayName": "Mealie",
+        "name": "mealie",
+        "version": "Latest",
+        "location": "https://ghcr.io/mealie-recipes/mealie:nightly",
+        "type": "app"
+    },
+    
+    {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
         "repository": "dockerhub",
         "arch": "amd64",
